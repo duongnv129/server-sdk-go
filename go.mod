@@ -1,4 +1,4 @@
-module github.com/duongnv129/server-sdk-go/v2
+module github.com/livekit/server-sdk-go/v2
 
 go 1.23
 
